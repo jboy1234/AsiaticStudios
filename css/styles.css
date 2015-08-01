@@ -1,0 +1,35 @@
+#background {
+    background-color: #36393b;
+}
+
+#nav {
+    background-color: transparent;
+    border: none;
+}
+
+#copyright {
+    color: #949494;
+    padding-top: 27px;
+}
+
+.colFix {
+    padding-left: 15%;
+}
+
+.fix {
+    padding-left: 20%;
+}
+
+.feature {
+    color: white;
+}
+
+.footer {
+    border-top: solid #fbe657 3px;
+    position:fixed;
+    left:0px;
+    bottom:0px;
+    height:75px;
+    width:100%;
+    background: #2E3237;
+}
